@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BeerCraft</string>
+    <string name="button_addBeer">Add Beer</string>
+    <string name="hint_BeerTitle">Beer Name</string>
+    <string name="hint_BeerDescription">Beer Description</string>
+    <string name="menu_addBeer">Add a Beer</string>
+    <string name="menu_cancel">Cancel</string>
+    <string name="no_title_entered">Please Enter A Name For Your Beer.</string>
+    <string name="no_description_entered">Please Enter A Description For Your Beer.</string>
+    <string name="save_beer">Save The Beer</string>
+    <string name="button_addImage"> Add Image </string>
+    <string name="select_alcohlic_image">Select picture of beer</string>
+    <string name="change_alcohlic_image">Change picture of beer</string>
+    <string name="menu_delete">Delete</string>
+    //login and sign up screens
+    <string name="menu_login">login</string>
+    <string name="menu_sign">sign up!</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_register">Register</string>
+    <string name="alreadyhaveanaccount">Already have an account?</string>
+    <string name="btn_login">Login</string>
+    <string name="add_image">Upload an Image!</string>
+
+
+
+
+
+</resources>

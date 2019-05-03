@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "149822633721",
+    "firebase_url": "https://beercraft-1b9c5.firebaseio.com",
+    "project_id": "beercraft-1b9c5",
+    "storage_bucket": "beercraft-1b9c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149822633721:android:32d214d28f554ae0",
+        "android_client_info": {
+          "package_name": "com.example.beercraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149822633721-08qvh3slss8fcbhlh806jjhd3v1ai64k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beercraft",
+            "certificate_hash": "408dd62f3989bda46d82103910b1784663f3270b"
+          }
+        },
+        {
+          "client_id": "149822633721-33p8larbej6f9pkdvnbpidectm4tu1s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2So8m1AtXHo_ce26cWS4BgGT6QGR5M2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149822633721-33p8larbej6f9pkdvnbpidectm4tu1s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
